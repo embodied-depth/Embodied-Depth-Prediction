@@ -1,0 +1,8 @@
+__pycache__
+checkpoints
+logs
+mydata
+habdata
+splits
+*.pth
+.DS_Store
