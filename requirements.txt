@@ -1,0 +1,11 @@
+matplotlib>=3.5.1
+opencv-python
+scikit-image==0.17.2
+tqdm
+imageio
+path
+scipy
+test-tube
+configargparse
+kornia
+yacs
